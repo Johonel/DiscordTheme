@@ -9,11 +9,11 @@
 */
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
 :root {
---main-theme-color: #43b581;
---theme-transparency: #000000cc;
+--main-theme-color: #6AFFC490;
+--theme-transparency: #00000069;
 --theme-background-image: url('https://cdn.discordapp.com/attachments/755884522389635215/1127730022715764736/animated-flying-pika.gif');
 --home-icon-image: url('https://cdn.discordapp.com/attachments/755884522389635215/1127733640680439878/running_pika.gif');
---home-icon-image-zoom: 100%;
+--home-icon-image-zoom: 75%;
 --home-icon-image-position: center;
 --server-listing-width: 72px;
 --font-size: 100%;
@@ -26,12 +26,12 @@
 --video-screen-button-foreground-color: #ffffffff;
 --video-screen-button-background-hovor-color: #c8c8c866;
 --video-screen-button-foreground-hovor-color: #ffffffff;
---member-listing-role-color: #43b581ff;
---small-user-popout-background-image: url('https://i.imgur.com/j1Z6HVc.jpg');
---small-user-popout-background-transparency: #00000099;
+--member-listing-role-color: #5EFFB6A2;
+--small-user-popout-background-image: url('https://i.imgur.com/RkgJMz4.jpg');
+--small-user-popout-background-transparency: #000000A0;
 --small-user-popout-background-image-position: center;
---big-user-popout-background-image: url('https://i.imgur.com/j1Z6HVc.jpg');
---big-user-popout-background-transparency: #00000099;
+--big-user-popout-background-image: url('https://i.imgur.com/xhedrwX.jpg');
+--big-user-popout-background-transparency: #000000A0;
 --big-user-popout-background-image-position: center;
 --code-markup-background-color: #00000099;
 --code-markup-border: 1px solid transparent;
@@ -49,11 +49,11 @@
 --unread-message-divider-font-color: #ffffff;
 --new-messages-bar-background-color: #7289da;
 --new-messages-bar-font-color: #ffffff;
---emoji-menu-background-color: #ffffff;
---emoji-menu-sider-background-color: #ffffff;
---emoji-menu-server-header-background-color: #ffffff;
---emoji-menu-bottom-bar-background-color: #ffffff;
---emoji-menu-search-bar-background-color: #ffffff;
+--emoji-menu-background-color: #00000099;
+--emoji-menu-sider-background-color: #00000000;
+--emoji-menu-server-header-background-color: #00000000;
+--emoji-menu-bottom-bar-background-color: #00000099;
+--emoji-menu-search-bar-background-color: #00000099;
 --message-search-menu-background-color: #000000cc;
 --message-search-container-background-color: #00000099;
 --message-search-result-background-color: #c8c8c80d;
